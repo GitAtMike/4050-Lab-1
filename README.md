@@ -1,7 +1,7 @@
 # CS4050 Lab 1: Graph Representations at Scale
-![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/angrynarwhal/4050-Lab-1?include_prereleases&label=pre-release&logo=github)  
+![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/angrynarwhal/4050-Lab-1?include_prereleases&label=pre-release&logo=github)
 
-Place all of your submission documents in the [./lab1_submission_folder](./lab1_submission/). You will submit a zip file of that directory in Canvas. 
+Place all of your submission documents in the [./lab1_submission_folder](./lab1_submission/). You will submit a zip file of that directory in Canvas.
 
 ## Overview
 
@@ -13,7 +13,7 @@ This lab explores the **practical performance differences** between adjacency ma
 4. **Experience** where each representation succeeds and fails
 5. **Understand** why representation choice matters in real systems
 
-If you are curious about the use of OO, classes, polymorphism, and overloading of methods in the pythonic example, and its corrallaries in C, you can read up on that in [This File](./polymorphism-overloading.md). 
+If you are curious about the use of OO, classes, polymorphism, and overloading of methods in the pythonic example, and its corrallaries in C, you can read up on that in [This File](./polymorphism-overloading.md).
 
 ## Learning Objectives
 
@@ -215,7 +215,7 @@ class HybridGraph(Graph):
 
 ## Submission Requirements
 
-Place all of your submission documents in the [./lab1_submission_folder](./lab1_submission/). You will submit a zip file of that directory in Canvas. 
+Place all of your submission documents in the [./lab1_submission_folder](./lab1_submission/). You will submit a zip file of that directory in Canvas.
 
 1. **Experimental data** from all exercises (CSV or screenshots)
 2. **Written answers** to all questions (~1-2 paragraphs each)
@@ -241,3 +241,4 @@ Place all of your submission documents in the [./lab1_submission_folder](./lab1_
 **Different results each run**: Shortest path benchmarks use random endpoints. Set `random.seed(42)` for reproducibility.
 
 
+Test commit from VS Code
