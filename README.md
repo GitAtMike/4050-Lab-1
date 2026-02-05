@@ -1,5 +1,5 @@
 # CS4050 Lab 1: Graph Representations at Scale
-/github/release/angrynarwhal/4050-Lab-1?sort=semvar
+![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/angrynarwhal/4050-Lab-1?include_prereleases&label=pre-release&logo=github)  
 
 Place all of your submission documents in the [./lab1_submission_folder](./lab1_submission/). You will submit a zip file of that directory in Canvas. 
 
