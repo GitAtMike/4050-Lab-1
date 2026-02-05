@@ -240,5 +240,3 @@ Place all of your submission documents in the [./lab1_submission_folder](./lab1_
 
 **Different results each run**: Shortest path benchmarks use random endpoints. Set `random.seed(42)` for reproducibility.
 
-
-Test commit from VS Code
