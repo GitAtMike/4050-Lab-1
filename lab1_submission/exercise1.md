@@ -1,4 +1,6 @@
-# Exercise 1
+# Exercise 1 -  Memory Scaling Analysis
+
+## Memory Usage Results
 
 | Network | Nodes         | List Memory | Matrix Memory | Ratio |
 | ------- | ------------- | ----------- | ------------- | ----- |
