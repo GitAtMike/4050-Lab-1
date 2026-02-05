@@ -10,6 +10,10 @@ This lab explores the **practical performance differences** between adjacency ma
 4. **Experience** where each representation succeeds and fails
 5. **Understand** why representation choice matters in real systems
 
+If you are curious about the use of OO, classes, polymorphism, and overloading of methods in the Pythonic example, and its corrallaries in C, you can read up on that in [./polymorphism-overloading.md](this file.). 
+
+
+
 ## Learning Objectives
 
 By completing this lab, you will:
@@ -59,6 +63,10 @@ cs3050-Lab-6/
 │   ├── tiny_edges.csv
 │   ├── small_nodes.csv
 │   └── ...
+├── lab1_submission/                           # Generated network files
+│   ├── .keep  # Ensures an empty directory is cloned locally
+│   ├── <<Your Submission in Markdown Format (you can copy that section of the README.md to start)>>
+│   └── ...
 ├── scripts/
 │   └── generate_network.py         # Network data generator
 ├── python/
@@ -66,8 +74,6 @@ cs3050-Lab-6/
 │   └── run_experiments.py          # Guided experiment runner
 ├── c/
 │   └── (C implementations)
-├── go/
-│   └── (Go implementations)
 └── README.md
 ```
 
