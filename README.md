@@ -181,7 +181,7 @@ Dijkstra's algorithm is in the `c` folder, and instructions for running it are [
 
 Try loading the "huge" network with matrix representation:
 ```bash
-python generate_network.py --size huge
+python scripts/generate_network.py --size huge
 python -c "from graph_representations import load_graph; load_graph('../data/huge_nodes.csv', '../data/huge_edges.csv', use_matrix=True)"
 ```
 
